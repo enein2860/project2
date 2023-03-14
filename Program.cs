@@ -10,7 +10,7 @@ namespace project2
     {
         static void Main(string[] args)
         {
-
+            //создание
         }
     }
 }
